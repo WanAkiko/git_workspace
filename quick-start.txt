@@ -1,4 +1,4 @@
-# region
+# region - 内容开始
+当前分支：master
 温馨提示：ta们都在假装颓废，你别上当！o(╥﹏╥)o
-# endregion
-
+# endregion - 内容结束
