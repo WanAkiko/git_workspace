@@ -1,6 +1,4 @@
-# region - 内容开始
-当前分支：master
-温馨提示：ta们都在假装颓废，你别上当！o(╥﹏╥)o
-当前分支：hotfix
-温馨提示：好心情和上进心正在营业(*^▽^*)
-# endregion - 内容结束
+# region
+分支名称：master
+提交内容：ta们都在假装颓废，你别上当！o(╥﹏╥)o
+# endregion
